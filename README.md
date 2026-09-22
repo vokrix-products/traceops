@@ -100,3 +100,4 @@ python3 run_tests.py
 ## Environment
 
 - `DEEPSEEK_API_KEY` — optional. Enables LLM extraction fallback via `deepseek-v4-flash`.
+Railway: traceops
