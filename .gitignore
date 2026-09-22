@@ -1,8 +1,9 @@
 *.csv
-*.json
 venv/
 __pycache__/
 *.pyc
 .env
 node_modules/
+dashboard/node_modules/
+dashboard/dist/
 dashboard/.env.local
